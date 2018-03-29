@@ -68,7 +68,7 @@ Open your project in Xcode from the .xcworkspace file (not the usual project fil
 * *"Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome"*
 
 # Contact #
-
+*Testing Commit*
 ### Dalton Cherry ###
 * https://github.com/daltoniam
 * http://twitter.com/daltoniam
